@@ -13,7 +13,6 @@ import {
     PointElement,
     Filler,
 } from 'chart.js';
-import 'chartjs-plugin-zoom';
 import { useRouter } from 'next/router';
 
 ChartJS.register(
